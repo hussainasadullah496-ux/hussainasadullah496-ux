@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,45:5b21b6,100:2563eb&height=220&section=header&text=Hussain%20Asadullah&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=Software%20Engineering%20%7C%20AI%20%26%20Full-Stack%20Development&descSize=16&descAlignY=55" width="100%" alt="Purple and indigo animated profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312e81,45:5b21b6,100:2563eb&amp;height=220&amp;section=header&amp;text=Hussain%20Asadullah&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;animation=twinkling&amp;desc=Software%20Engineering%20%7C%20AI%20%26%20Full-Stack%20Development&amp;descSize=16&amp;descAlignY=55" width="100%" alt="Purple and indigo animated profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+Practical+Software+Solutions;Python+Development+%7C+Automation+%7C+CLI+Tools;Responsive+Web+Applications+%7C+Product+Thinking;Exploring+AI%2C+Generative+AI+%26+Conversational+Systems" alt="Animated developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3000&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Building+Practical+Software+Solutions;Python+Development+%7C+Automation+%7C+CLI+Tools;Responsive+Web+Applications+%7C+Product+Thinking;Exploring+AI%2C+Generative+AI+%26+Conversational+Systems" alt="Animated developer introduction" />
 
 <br/>
 
@@ -56,6 +56,7 @@ Collaborative projects, internship opportunities, open-source contributions, tec
 <div align="left">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -98,7 +99,7 @@ Collaborative projects, internship opportunities, open-source contributions, tec
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,bootstrap,git,github,vscode&theme=dark&perline=8" alt="Python, JavaScript, HTML, CSS, Bootstrap, Git, GitHub, and VS Code skill icons" />
+<img src="https://skillicons.dev/icons?i=python,cs,js,html,css,bootstrap,git,github,vscode&amp;theme=dark&amp;perline=9" alt="Python, JavaScript, HTML, CSS, Bootstrap, Git, GitHub, and VS Code skill icons" />
 
 </div>
 
@@ -391,19 +392,19 @@ No publicly verified Cisco certification is listed here.
 <div align="center">
 
 <a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode coding profile" />
+  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode coding profile" />
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Algorithms-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks coding profile" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Algorithms-2F8D46?style=for-the-badge&amp;logo=geeksforgeeks&amp;logoColor=white" alt="GeeksforGeeks coding profile" />
 </a>
 
 <a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Coding%20Practice-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank coding profile" />
+  <img src="https://img.shields.io/badge/HackerRank-Coding%20Practice-00EA64?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=black" alt="HackerRank coding profile" />
 </a>
 
 <a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef coding profile" />
+  <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&amp;logo=codechef&amp;logoColor=white" alt="CodeChef coding profile" />
 </a>
 
 <br/>
@@ -418,13 +419,13 @@ No publicly verified Cisco certification is listed here.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hussainasadullah496-ux&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=818CF8&include_all_commits=true&rank_icon=github" alt="GitHub profile statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hussainasadullah496-ux&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;icon_color=818CF8&amp;include_all_commits=true&amp;rank_icon=github" alt="GitHub profile statistics" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainasadullah496-ux&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most-used programming languages based on public repository analysis" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussainasadullah496-ux&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=A78BFA&amp;text_color=C9D1D9&amp;langs_count=8" alt="Most-used programming languages based on public repository analysis" />
 
 <br/>
 
-<img height="180" src="https://streak-stats.demolab.com?user=hussainasadullah496-ux&hide_border=true&background=0D1117&ring=8B5CF6&fire=6366F1&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak statistics" />
+<img height="180" src="https://streak-stats.demolab.com?user=hussainasadullah496-ux&amp;hide_border=true&amp;background=0D1117&amp;ring=8B5CF6&amp;fire=6366F1&amp;currStreakLabel=A78BFA&amp;sideLabels=C9D1D9&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;dates=8B949E" alt="GitHub contribution streak statistics" />
 
 </div>
 
@@ -434,7 +435,7 @@ No publicly verified Cisco certification is listed here.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hussainasadullah496-ux&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%" alt="GitHub profile trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=hussainasadullah496-ux&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=6" width="100%" alt="GitHub profile trophies" />
 
 </div>
 
@@ -444,7 +445,7 @@ No publicly verified Cisco certification is listed here.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hussainasadullah496-ux&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=6366F1&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hussainasadullah496-ux&amp;bg_color=0D1117&amp;color=C4B5FD&amp;line=7C3AED&amp;point=6366F1&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
