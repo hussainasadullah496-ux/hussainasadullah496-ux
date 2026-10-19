@@ -15,7 +15,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-EXPLORE%20PROJECTS-4F46E5?style=for-the-badge&logo=github&logoColor=white)](#featured-projects)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussain-asadullah-448aa538b/)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](2025se258@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/hussain-asadullah-448aa538b/)
 [![GitHub](https://img.shields.io/badge/GITHUB-PROFILE-3730A3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hussainasadullah496-ux)
 
 <br/>
