@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312e81,45:5b21b6,100:2563eb&amp;height=220&amp;section=header&amp;text=Hussain%20Asadullah&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=35&amp;animation=twinkling&amp;desc=Software%20Engineering%20%7C%20AI%20%26%20Full-Stack%20Development&amp;descSize=16&amp;descAlignY=55" width="100%" alt="Purple and indigo animated profile banner" />
+<img src="assets/profile-header.svg" width="100%" alt="Purple and indigo profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3000&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Building+Practical+Software+Solutions;Python+Development+%7C+Automation+%7C+CLI+Tools;Responsive+Web+Applications+%7C+Product+Thinking;Exploring+AI%2C+Generative+AI+%26+Conversational+Systems" alt="Animated developer introduction" />
+<img src="assets/profile-typing.svg" width="100%" alt="Animated developer introduction" />
 
 <br/>
 
@@ -435,7 +435,11 @@ No publicly verified Cisco certification is listed here.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hussainasadullah496-ux&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=6" width="100%" alt="GitHub profile trophies" />
+[![Public Repositories](https://img.shields.io/badge/GitHub-Explore%20Repositories-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hussainasadullah496-ux?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/hussainasadullah496-ux?style=for-the-badge&logo=github&label=FOLLOWERS&color=4F46E5)](https://github.com/hussainasadullah496-ux?tab=followers)
+[![Profile Repository](https://img.shields.io/github/stars/hussainasadullah496-ux/hussainasadullah496-ux?style=for-the-badge&logo=github&label=PROFILE%20REPOSITORY%20STARS&color=7C3AED)](https://github.com/hussainasadullah496-ux/hussainasadullah496-ux)
+
+<sub>Verified repository and profile links replace the unavailable third-party trophy image.</sub>
 
 </div>
 
@@ -445,7 +449,9 @@ No publicly verified Cisco certification is listed here.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hussainasadullah496-ux&amp;bg_color=0D1117&amp;color=C4B5FD&amp;line=7C3AED&amp;point=6366F1&amp;area=true&amp;hide_border=true&amp;custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://raw.githubusercontent.com/hussainasadullah496-ux/hussainasadullah496-ux/output/github-activity.svg" width="100%" alt="Recent public GitHub activity graph" />
+
+<sub>This chart summarizes recent public GitHub events. Private contributions and all-time commit totals are not represented.</sub>
 
 </div>
 
@@ -455,7 +461,10 @@ No publicly verified Cisco certification is listed here.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hussainasadullah496-ux/hussainasadullah496-ux/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake traversing the GitHub contribution grid" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hussainasadullah496-ux/hussainasadullah496-ux/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/hussainasadullah496-ux/hussainasadullah496-ux/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake traversing the GitHub contribution grid" />
+</picture>
 
 </div>
 
@@ -497,3 +506,34 @@ open_to:
   - "Collaborative development projects"
   - "Open-source contributions"
   - "Mentorship and technical learning"
+```
+
+---
+
+## 14. Connect
+
+<div align="center">
+
+Let's connect around software engineering, practical development, and responsible applications of AI.
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hussain-asadullah-448aa538b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects%20%26%20Code-3730A3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hussainasadullah496-ux)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Featured%20Projects-4F46E5?style=for-the-badge&logo=github&logoColor=white)](#featured-projects)
+
+</div>
+
+---
+
+## 15. Footer
+
+<div align="center">
+
+*“Build thoughtfully. Ship reliably. Keep learning.”*
+
+<br/><br/>
+
+<img src="assets/profile-footer.svg" width="100%" alt="Purple and indigo profile footer banner" />
+
+</div>
