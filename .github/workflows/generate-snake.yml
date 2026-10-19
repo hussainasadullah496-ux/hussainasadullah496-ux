@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile visuals
 
 on:
   workflow_dispatch:
@@ -16,13 +16,21 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Generate snake SVGs
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: hussainasadullah496-ux
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate public activity graph
+        run: python .github/scripts/generate-activity.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish generated SVGs to output branch
         uses: peaceiris/actions-gh-pages@v4
